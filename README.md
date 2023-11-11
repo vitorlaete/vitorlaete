@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- I'm Vitor, i have 30 years old and i love technology.
+
+- Currently i'm learning JavaScript, HTML, CSS and other things related with web.
+
+- Fun fact: Where i live is too hot and i don't like sun. :laughing:
