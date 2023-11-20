@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 - Currently i'm learning JavaScript, HTML, CSS and other things related with web.
 
 - Fun fact: Where i live is too hot and i don't like sun. :laughing:
+
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vitorlaete)](https://github.com/vitorlaete/github-readme-stats)
